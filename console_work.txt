@@ -1,0 +1,7 @@
+On google chrome mouse right click
+Click on console
+type
+$('.portfolio-item-wrapper')  // this will return the first fount div
+type
+const portfolioItems = document.querySelectorAll('.portfolio-item-wrapper')
+type portfolioItems // will return node list
